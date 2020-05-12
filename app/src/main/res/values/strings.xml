@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JobScheduler</string>
+    <string name="schedule_job">schedule_job</string>
+    <string name="check_status">check_status</string>
+    <string name="checkstatus">checkStatus</string>
+</resources>
